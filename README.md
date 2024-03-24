@@ -1,5 +1,6 @@
 # Swift-UI-iOS17-Swift-Data
-Swift UI iOS17 Swift Data
+You can select `Core Data` in the **Storage** drop-down menu. By doing so, `Xcode` will generate the code needed<br>
+to inject the `Core Data stack` into your code. SwiftData is built on top of Core Data.
 ![swift-data-Apple-ios17](https://github.com/danielurra/Swift-UI-iOS17-Swift-Data/assets/51704179/72b2bf1a-6426-4f77-ba7a-2fe052250553)<br>
 ## Grab the code - Content View file
 ```swift
